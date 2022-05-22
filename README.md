@@ -9,8 +9,8 @@ Please refer to the [`LICENSE`](LICENSE) if you would like to use any of my code
 
 [`Learning`](/src/Learning) - This is a mix of code I wrote to get comfortable with different concepts in Python
 
-- [`Graphics Basics`](/src/Learning/Graphics_Basics.py) - Trying out Pygame
-- [`Data Frames`](/src/Learning/Data_Frames.py) - Practice with interacting with spreadsheets
-- [`Linear Regression`](/src/Learning/Linear_Regression.py) - Playing around with linear regression
+- [`Graphics Basics`](/src/Learning/Graphics%20Basics.py) - Trying out Pygame
+- [`Data Frames`](/src/Learning/Data%20Frames.py) - Practice with interacting with spreadsheets
+- [`Linear Regression`](/src/Learning/Linear%20Regression.py) - Playing around with linear regression
 
-[`Final Project`](/src/Final_Project)
+[`Final Project`](/src/Final%20Project)
