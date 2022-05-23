@@ -18,3 +18,5 @@ Please refer to the [`LICENSE`](LICENSE) if you would like to use any of my code
 - [`train.csv`](/src/Final%20Project/train.csv) and [`test.csv`](/src/Final%20Project/test.csv) - Spreadsheets to train and test the machine learning model
 
 Here is a video demo of the final result:
+
+https://user-images.githubusercontent.com/52972357/169723475-d169540e-4043-4ae2-9881-1894547957b6.mp4
