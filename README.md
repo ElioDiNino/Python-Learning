@@ -1,5 +1,5 @@
 # Python Learning
-This is a collection of the Python code I wrote for a high school programming class where we followed the lessons and tasks from [Program Arcade Games](http://programarcadegames.com/). At the end I also did a final project exploring machine learning using the [Titanic dataset](https://www.kaggle.com/c/titanic).
+This is a collection of the Python code I wrote for a high school programming class where we followed the lessons and tasks from [Program Arcade Games](http://programarcadegames.com/). At the end, I also did a final project exploring machine learning using the [Titanic dataset](https://www.kaggle.com/c/titanic).
 
 ## Using My Code
 Please refer to the [`LICENSE`](LICENSE) if you would like to use any of my code
@@ -13,4 +13,8 @@ Please refer to the [`LICENSE`](LICENSE) if you would like to use any of my code
 - [`Data Frames`](/src/Learning/Data%20Frames.py) - Practice with interacting with spreadsheets
 - [`Linear Regression`](/src/Learning/Linear%20Regression.py) - Playing around with linear regression
 
-[`Final Project`](/src/Final%20Project)
+[`Final Project`](/src/Final%20Project) - This is my final project where I explored machine learning by analyzing the Titanic disaster. Within the folder you can see my weekly progression through the project.
+- [`Random Forest`](/src/Final%20Project/Random%20Forest.py) - My final Python program for the project
+- [`train.csv`](/src/Final%20Project/train.csv) and [`test.csv`](/src/Final%20Project/test.csv) - Spreadsheets to train and test the machine learning model
+
+Here is a video demo of the final result:
